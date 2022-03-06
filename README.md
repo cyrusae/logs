@@ -10,5 +10,6 @@
  [pause for a truly terrible move, in the house sense]
  - [2022-03-02](./2022/03/0220302.md)
  - [2022-03-04](./2022/03/0220304.md)
+ - [2022-03-05](./2022/03/0220305.md)
 
 May be formatted as a blog in the future; for now, Markdown files.
