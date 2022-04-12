@@ -20,4 +20,6 @@
  - [2022-03-16](./2022/03/0220316.md)
  - [2022-03-18](./2022/03/0220318.md)
 
+[TO DO: update for 04-08 onwards, because I am at least a little bit back]
+
 May be formatted as a blog in the future; for now, Markdown files.
